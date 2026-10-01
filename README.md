@@ -1,65 +1,59 @@
 # Imponexpo
 
-### Building AI systems for connected commerce.
+## Building Intelligence for Connected Commerce
 
-Imponexpo is a research and technology company developing artificial intelligence for commerce across local, national, regional and global markets.
+Imponexpo is an AI research and technology company building intelligent systems for commerce across local, national, regional and global markets.
 
-We build at the intersection of **artificial intelligence, economic systems and commerce infrastructure** — exploring how intelligent systems can help people, companies and institutions understand and operate across increasingly complex commercial environments.
-
----
+We work at the intersection of artificial intelligence, commerce and economic infrastructure — developing technologies that help people, businesses and institutions understand complex commercial environments, make better decisions and coordinate economic activity across markets.
 
 ## Research & Engineering
 
 Our work spans:
 
-- **AI Agents & Agentic Systems**
-- **Large Language Models**
-- **Retrieval & Knowledge Systems**
-- **Multilingual AI**
-- **Document Intelligence**
-- **AI Evaluation & Benchmarking**
-- **Economic & Commercial Reasoning**
-- **AI Infrastructure**
-- **Applied AI for Commerce**
-
----
+- AI agents and agentic systems
+- Large language models
+- Retrieval and knowledge systems
+- Multilingual AI
+- Document intelligence
+- AI evaluation and benchmarking
+- Economic and commercial reasoning
+- Data and AI infrastructure
+- Applied AI for commerce
 
 ## Open Engineering
 
-This GitHub contains selected public engineering, research, developer tools, reference implementations and technical experiments from Imponexpo.
+This GitHub is the public engineering and research home of Imponexpo.
 
-Our public work is designed to contribute useful tools and research to the broader AI and developer ecosystem while advancing practical applications of artificial intelligence in commerce.
+We publish selected open-source projects, research implementations, developer tools, technical experiments and reproducibility resources that contribute to the broader AI and commerce ecosystem.
 
----
+## What We Are Exploring
 
-## Selected Work
+We are interested in a fundamental question:
 
-Explore the pinned repositories below for current projects, technical demonstrations, research implementations and open-source experiments.
+> How can intelligent systems better understand and support commerce across people, companies, institutions and markets?
 
-As projects are released, repositories will include reproducible examples, documentation, evaluations and implementation resources where appropriate.
+Our research and engineering explore this question across language, documents, knowledge, reasoning, agents, evaluation, infrastructure and real-world commercial workflows.
 
----
+## Selected Projects
+
+Our pinned repositories highlight selected public projects and technical work from across Imponexpo.
+
+Each public project is designed around a clearly defined problem and, where appropriate, includes documentation, reproducible examples, evaluations and working demonstrations.
 
 ## Imponexpo Research
 
-Imponexpo Research investigates intelligent systems for complex commercial environments.
+Imponexpo Research explores the scientific and technical foundations of intelligent commerce.
 
-Our research interests include:
+Research areas include agentic AI, model evaluation, multilingual intelligence, knowledge systems, economic reasoning, AI infrastructure and applied artificial intelligence.
 
-**Agentic AI** · **Model Evaluation** · **Multilingual Intelligence** · **Economic Reasoning** · **Knowledge Systems** · **AI Infrastructure** · **Intelligent Commerce**
-
-We are particularly interested in the intersection between AI systems and the real-world coordination required among people, businesses, information, institutions and markets.
-
----
+We are particularly interested in systems that must operate across fragmented information, multiple languages, different organizations, changing rules and complex real-world environments.
 
 ## Collaboration
 
-We welcome conversations with researchers, engineers, universities, technology companies and institutions working on ambitious AI systems and the future of commerce.
+We welcome collaboration with researchers, engineers, universities, technology companies and institutions working at the frontiers of artificial intelligence and commerce.
 
 ---
 
-### Intelligence × People × Commerce
+## Intelligence × People × Commerce
 
-**Imponexpo**
-
-🌐 [imponexpo.com](https://imponexpo.com)
+[imponexpo.com](https://imponexpo.com)
